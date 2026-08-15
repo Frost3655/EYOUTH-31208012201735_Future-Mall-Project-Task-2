@@ -1,10 +1,10 @@
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
-  color: #333;
+  color: #191923;
   margin: 0;
   padding: 20px;
-  background-color: #f5f5f5;
+  background-color: #fbfef9;
 }
 
 .logo-img {
@@ -18,13 +18,13 @@ body {
   font-size: 3em;
 
   margin: 20px 0 10px 0;
-  color: #222;
+  color: #0e79b2;
   font-weight: bold;
 }
 
 p {
   font-size: 1.1em;
-  color: #666;
+  color: #191923;
   margin-bottom: 30px;
 }
 
@@ -37,4 +37,5 @@ p {
 .store-list li {
   margin-bottom: 10px;
   font-size: 1.1em;
+  color: #191923;
 }
